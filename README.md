@@ -13,8 +13,3 @@ A simple weather application built using Python and Tkinter. This app allows use
 - **Tkinter**: A standard Python library used to create the graphical user interface.
 - **OpenWeatherMap API**: Provides real-time weather data based on the city entered by the user.
 - **Requests**: Python library used for making HTTP requests to the OpenWeatherMap API.
-
-## Installation:
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
